@@ -1,2 +1,2 @@
 #!/bin/bash
-tekle mamo.mamo.nl
+telnet towel.blinkenlights.nl
